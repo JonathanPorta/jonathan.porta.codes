@@ -3,6 +3,7 @@ title: Random Thoughts on Implementing Transactions/Orders in a Shopping Cart
 author: Jonathan
 layout: post
 permalink: /2013/10/21/random-thoughts-on-implementing-a-transactionsorders-in-a-shopping-cart/
+comments: true
 categories:
   - Development
   - Web Application Development

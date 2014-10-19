@@ -3,6 +3,7 @@ title: Real Estate Deal App Beta Released for Android
 author: Jonathan
 layout: post
 permalink: /2012/04/29/real-estate-deal-app-beta-released-for-android/
+comments: true
 categories:
   - Android
   - Real Estate

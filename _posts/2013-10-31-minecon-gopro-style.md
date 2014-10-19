@@ -3,6 +3,7 @@ title: Minecon GoPro Style
 author: Jonathan
 layout: post
 permalink: /2013/10/31/minecon-gopro-style/
+comments: true
 categories:
   - Uncategorized
 format: image

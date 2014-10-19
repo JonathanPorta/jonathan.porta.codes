@@ -3,6 +3,7 @@ title: GTA 5 Online Launches as Government Shuts Down
 author: Jonathan
 layout: post
 permalink: /2013/10/01/gta-5-online-launches-as-government-shuts-down/
+comments: true
 categories:
   - Video Gaming
 ---

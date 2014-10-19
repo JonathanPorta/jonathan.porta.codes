@@ -3,6 +3,7 @@ title: YouTube Channel Art Photoshop Template
 author: Jonathan
 layout: post
 permalink: /2013/04/25/youtube-channel-art-photoshop-template/
+comments: true
 categories:
   - Photoshop
   - Youtube

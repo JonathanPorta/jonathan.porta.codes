@@ -3,6 +3,7 @@ title: Buy and Sell Predefined WorldGuard Regions with a new CraftBukkit Plugin
 author: Jonathan
 layout: post
 permalink: /2013/08/05/buy-and-sell-predefined-worldguard-regions-with-a-new-craftbukkit-plugin/
+comments: true
 categories:
   - Uncategorized
 ---

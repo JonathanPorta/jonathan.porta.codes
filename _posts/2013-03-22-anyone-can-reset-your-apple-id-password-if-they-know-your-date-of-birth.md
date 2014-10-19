@@ -3,6 +3,7 @@ title: Anyone can reset your Apple ID password if they know your date of birth
 author: Jonathan
 layout: post
 permalink: /2013/03/22/anyone-can-reset-your-apple-id-password-if-they-know-your-date-of-birth/
+comments: true
 categories:
   - Apple
   - Security

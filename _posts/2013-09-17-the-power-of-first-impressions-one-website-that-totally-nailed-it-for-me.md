@@ -3,6 +3,7 @@ title: 'Who are you scaring away? The power of first impressions: One website th
 author: Jonathan
 layout: post
 permalink: /2013/09/17/the-power-of-first-impressions-one-website-that-totally-nailed-it-for-me/
+comments: true
 categories:
   - Development
   - Javascript

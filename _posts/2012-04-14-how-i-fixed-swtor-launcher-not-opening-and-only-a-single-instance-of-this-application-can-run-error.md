@@ -3,6 +3,7 @@ title: 'How I fixed SWTOR launcher not opening and &#8220;only a single instance
 author: Jonathan
 layout: post
 permalink: /2012/04/14/how-i-fixed-swtor-launcher-not-opening-and-only-a-single-instance-of-this-application-can-run-error/
+comments: true
 categories:
   - Video Gaming
 tags:

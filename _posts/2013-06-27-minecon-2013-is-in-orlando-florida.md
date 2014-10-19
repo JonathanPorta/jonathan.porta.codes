@@ -3,6 +3,7 @@ title: Minecon 2013 is in Orlando, Florida
 author: Jonathan
 layout: post
 permalink: /2013/06/27/minecon-2013-is-in-orlando-florida/
+comments: true
 categories:
   - Minecraft
   - Video Gaming

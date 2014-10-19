@@ -3,6 +3,7 @@ title: 'New Fedora 18 Anaconda  Installer &#8211; Sexy but Frustrating'
 author: Jonathan
 layout: post
 permalink: /2013/05/11/new-fedora-18-anaconda-installer-sexy-but-frustrating/
+comments: true
 categories:
   - Development
   - Fedora 18

@@ -3,6 +3,7 @@ title: Why I thought the Xbox One Reveal was Shameful
 author: Jonathan
 layout: post
 permalink: /2013/05/22/why-i-thought-the-xbox-one-reveal-was-shameful/
+comments: true
 categories:
   - Video Gaming
   - Xbox One

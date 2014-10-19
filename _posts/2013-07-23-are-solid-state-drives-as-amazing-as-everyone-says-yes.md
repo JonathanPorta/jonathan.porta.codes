@@ -3,6 +3,7 @@ title: Are solid state drives as amazing as everyone says? Yes.
 author: Jonathan
 layout: post
 permalink: /2013/07/23/are-solid-state-drives-as-amazing-as-everyone-says-yes/
+comments: true
 categories:
   - Adobe Premier
   - Hardware

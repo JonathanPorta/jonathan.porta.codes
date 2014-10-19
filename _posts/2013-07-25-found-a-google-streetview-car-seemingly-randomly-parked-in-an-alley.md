@@ -3,6 +3,7 @@ title: Found a Google Streetview Car Seemingly Randomly Parked in an Alley
 author: Jonathan
 layout: post
 permalink: /2013/07/25/found-a-google-streetview-car-seemingly-randomly-parked-in-an-alley/
+comments: true
 categories:
   - Google
 ---
@@ -28,7 +29,7 @@ It was dark, so these are the best photos I could manage. Sorry for the low qual
       <a href='/images/posts/2013/07/Photo-Jul-25-0-15-15.jpg' title='Photo Jul 25, 0 15 15'><img width="150" height="150" src="/images/posts/2013/07/Photo-Jul-25-0-15-15-150x150.jpg" class="attachment-thumbnail" alt="Photo Jul 25, 0 15 15" /></a>
     </dt>
   </dl>
-  
+
   <br style="clear: both" /><dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
       <a href='/images/posts/2013/07/Photo-Jul-25-0-15-31.jpg' title='Photo Jul 25, 0 15 31'><img width="150" height="150" src="/images/posts/2013/07/Photo-Jul-25-0-15-31-150x150.jpg" class="attachment-thumbnail" alt="Photo Jul 25, 0 15 31" /></a>

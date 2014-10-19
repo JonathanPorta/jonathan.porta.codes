@@ -3,6 +3,7 @@ title: Thoughts After Publishing my first Unity3D Game on the Apple App Store an
 author: Jonathan
 layout: post
 permalink: /2014/10/01/thoughts-after-publishing-my-first-unity3d-game-on-the-apple-app-store-and-google-play-store/
+comments: true
 categories:
   - Development
   - Unity3D

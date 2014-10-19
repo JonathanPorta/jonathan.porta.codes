@@ -3,6 +3,7 @@ title: Facebook requiring all shared links to have a thumbnail or it will pick o
 author: Jonathan
 layout: post
 permalink: /2013/11/21/facebook-requiring-thumbnails-for-links/
+comments: true
 categories:
   - Facebook
   - User Experience Design

@@ -3,6 +3,7 @@ title: 'Hell&#8217;s Retriever &#8211; How to get the Hell&#8217;s Retriever in 
 author: Jonathan
 layout: post
 permalink: /2013/04/25/hells-retriever-how-to-get-the-hells-retriever-in-mob-of-the-dead/
+comments: true
 categories:
   - Black Ops 2
   - Call of Duty

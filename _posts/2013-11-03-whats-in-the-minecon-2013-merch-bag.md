@@ -3,6 +3,7 @@ title: 'What&#8217;s in the Minecon 2013 Merch Bag'
 author: Jonathan
 layout: post
 permalink: /2013/11/03/whats-in-the-minecon-2013-merch-bag/
+comments: true
 categories:
   - Minecon 2013
   - Minecraft

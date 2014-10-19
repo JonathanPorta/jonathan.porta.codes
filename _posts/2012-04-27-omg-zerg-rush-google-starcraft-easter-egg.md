@@ -3,6 +3,7 @@ title: 'OMG Zerg Rush &#8211; Google Starcraft Easter Egg'
 author: Jonathan
 layout: post
 permalink: /2012/04/27/omg-zerg-rush-google-starcraft-easter-egg/
+comments: true
 categories:
   - Video Gaming
 tags:

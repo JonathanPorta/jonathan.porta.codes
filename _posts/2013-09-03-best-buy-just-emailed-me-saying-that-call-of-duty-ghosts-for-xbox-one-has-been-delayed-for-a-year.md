@@ -3,6 +3,7 @@ title: Best Buy just emailed me saying that Call of Duty Ghosts for Xbox One has
 author: Jonathan
 layout: post
 permalink: /2013/09/03/best-buy-just-emailed-me-saying-that-call-of-duty-ghosts-for-xbox-one-has-been-delayed-for-a-year/
+comments: true
 categories:
   - Call of Duty
   - Video Gaming

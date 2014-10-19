@@ -3,6 +3,7 @@ title: Minecon 2013 Capes Are Here!
 author: Jonathan
 layout: post
 permalink: /2013/10/30/minecon-2013-capes-are-here/
+comments: true
 categories:
   - Minecon 2013
   - Minecraft

@@ -3,6 +3,7 @@ title: Success! Minecon 2013 Tickets Purchased
 author: Jonathan
 layout: post
 permalink: /2013/08/02/success-minecon-2013-tickets-purchased/
+comments: true
 categories:
   - Minecon 2013
   - Minecraft

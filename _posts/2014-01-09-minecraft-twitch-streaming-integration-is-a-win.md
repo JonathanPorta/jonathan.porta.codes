@@ -3,6 +3,7 @@ title: Minecraft Twitch Streaming Integration is a Win
 author: Jonathan
 layout: post
 permalink: /2014/01/09/minecraft-twitch-streaming-integration-is-a-win/
+comments: true
 categories:
   - Minecraft
   - Mojang

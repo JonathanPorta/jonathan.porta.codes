@@ -3,6 +3,7 @@ title: Mob of the Dead Music Easter Eggs Walkthrough
 author: Jonathan
 layout: post
 permalink: /2013/05/02/mob-of-the-dead-music-easter-eggs-walkthrough/
+comments: true
 categories:
   - Black Ops 2
   - Call of Duty

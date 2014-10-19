@@ -3,6 +3,7 @@ title: Minecon 2013 Tickets On Sale Today!
 author: Jonathan
 layout: post
 permalink: /2013/07/31/minecon-2013-tickets-on-sale-today/
+comments: true
 categories:
   - Minecon 2013
   - Minecraft

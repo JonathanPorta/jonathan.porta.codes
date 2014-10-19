@@ -3,6 +3,8 @@ layout: post
 title:  "Welcome to Jekyll!"
 date:   2014-10-17 21:44:25
 categories: jekyll update
+permalink: /2014/10/17/welcome-to-jekyll
+comments: true
 ---
 ### Hello? Is this thing on? Good.
 I have been wanting to switch my blog off of Wordpress and over to Jekyll for a very long time. Well, I finally did it.

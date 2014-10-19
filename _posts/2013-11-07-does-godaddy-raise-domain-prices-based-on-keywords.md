@@ -3,6 +3,7 @@ title: Does GoDaddy raise domain prices based on keywords?
 author: Jonathan
 layout: post
 permalink: /2013/11/07/does-godaddy-raise-domain-prices-based-on-keywords/
+comments: true
 categories:
   - Domains
   - Web Application Development

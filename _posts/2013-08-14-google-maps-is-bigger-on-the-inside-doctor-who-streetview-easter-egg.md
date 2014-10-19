@@ -3,6 +3,7 @@ title: 'Google Maps is Bigger on the Inside &#8211; Doctor Who Streetview Easter
 author: Jonathan
 layout: post
 permalink: /2013/08/14/google-maps-is-bigger-on-the-inside-doctor-who-streetview-easter-egg/
+comments: true
 categories:
   - Doctor Who
   - Google Maps
