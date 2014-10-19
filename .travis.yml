@@ -1,0 +1,16 @@
+language: ruby
+rvm:
+- 2.0.0
+- 1.9.3
+- jruby-19mode
+- rbx-2
+deploy:
+  provider: s3
+  access_key_id: AKIAIY24OPKJ7RDCQPSQ
+  secret_access_key:
+    secure: Oh8r4MnFBw81hU8bwe5Z0c4twrY212HGRS+NjrxkDA33i/Ku3eQ47M62aFQDPFGkj2ANxb1aTWdiclkc6dv2HJa63XLJ3A3FTq9YbEOmAXQMs6iP9OUSD9EMyAuIHRzvorCpL3UAqXB1m2hFDZyvdOl6jt3rxt9Yjv0Quql4UQM=
+  bucket: jonathan.porta.codes
+  local-dir: _site
+  acl: !ruby/string:HighLine::String public_read
+  on:
+    repo: JonathanPorta/jonathan.porta.codes
