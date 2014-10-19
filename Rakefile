@@ -9,7 +9,7 @@ task default: %w[test]
 # rake test
 desc "html-proof the site"
 task :test do
-  HTML::Proofer.new("./_site", verbose: true, href_ignore: [/jonathanporta\.com/]).run
+  HTML::Proofer.new("./_site", verbose: true, href_ignore: [/jonathanporta\.com/, /\#/]).run
 end
 
 # rake build
