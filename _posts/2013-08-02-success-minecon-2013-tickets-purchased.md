@@ -9,7 +9,7 @@ categories:
   - Mojang
 ---
 <div id="attachment_250" class="wp-caption aligncenter" style="width: 560px">
-  <img class="size-full wp-image-250" title="Minecon 2013 Tickets" src="http://jonathanporta.com/wp-content/uploads/2013/08/photo-18-e1375453330524.jpg" alt="Minecon 2013 Tickets" width="550" height="364" /><p class="wp-caption-text">
+  <img class="size-full wp-image-250" title="Minecon 2013 Tickets" src="/images/posts/2013/08/photo-18-e1375453330524.jpg" alt="Minecon 2013 Tickets" width="550" height="364" /><p class="wp-caption-text">
     Minecon 2013 Tickets
   </p>
 </div>

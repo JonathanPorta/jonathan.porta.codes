@@ -10,7 +10,7 @@ categories:
   - Video Gaming
 ---
 <div id="attachment_264" class="wp-caption aligncenter" style="width: 721px">
-  <a href="http://minecon.mojang.com"><img class="size-full wp-image-264" alt="Minecon 2013 Banner" src="http://jonathanporta.com/wp-content/uploads/2013/07/minecon-banner.png" width="711" height="274" /></a><p class="wp-caption-text">
+  <a href="http://minecon.mojang.com"><img class="size-full wp-image-264" alt="Minecon 2013 Banner" src="/images/posts/2013/07/minecon-banner.png" width="711" height="274" /></a><p class="wp-caption-text">
     Minecon 2013 Banner
   </p>
 </div>

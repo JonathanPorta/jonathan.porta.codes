@@ -10,7 +10,7 @@ categories:
 You know there is a problem when the only thing on your mind after a new console unveiling is &#8220;crap-I have to buy this if I want to play the next Call of Duty.&#8221;
 
 <div id="attachment_193" class="wp-caption aligncenter" style="width: 460px">
-  <img class="size-full wp-image-193" title="Xbox One Controller" src="http://jonathanporta.com/wp-content/uploads/2013/05/Xbox-One-Controller.png" alt="Xbox One Controller" width="450" height="407" /><p class="wp-caption-text">
+  <img class="size-full wp-image-193" title="Xbox One Controller" src="/images/posts/2013/05/Xbox-One-Controller.png" alt="Xbox One Controller" width="450" height="407" /><p class="wp-caption-text">
     At least this looks cool...
   </p>
 </div>
@@ -24,7 +24,7 @@ There are some definite pluses to the new hardware &#8211; HDMI in with passthro
 &nbsp;
 
 <div id="attachment_192" class="wp-caption aligncenter" style="width: 740px">
-  <img class="size-full wp-image-192" title="Xbox One Transistor Gloat" src="http://jonathanporta.com/wp-content/uploads/2013/05/xbox-one-transistors-gloat.jpg" alt="Xbox One Transistor Gloat" width="730" height="413" /><p class="wp-caption-text">
+  <img class="size-full wp-image-192" title="Xbox One Transistor Gloat" src="/images/posts/2013/05/xbox-one-transistors-gloat.jpg" alt="Xbox One Transistor Gloat" width="730" height="413" /><p class="wp-caption-text">
     Really? Does your audience really care how many transistors you crammed inside?
   </p>
 </div>
@@ -36,7 +36,7 @@ However, I do like that the marketing team took a page, or rather a half page, f
 &nbsp;
 
 <div id="attachment_196" class="wp-caption aligncenter" style="width: 660px">
-  <img class="size-full wp-image-196" title="Xbox One Kinect" src="http://jonathanporta.com/wp-content/uploads/2013/05/microsoft-xbox-one-kinect-01-e1369248696728.jpg" alt="Xbox One Kinect" width="650" height="487" /><p class="wp-caption-text">
+  <img class="size-full wp-image-196" title="Xbox One Kinect" src="/images/posts/2013/05/microsoft-xbox-one-kinect-01-e1369248696728.jpg" alt="Xbox One Kinect" width="650" height="487" /><p class="wp-caption-text">
     Xbox One Kinect
   </p>
 </div>

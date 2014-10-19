@@ -35,13 +35,15 @@ Anyways, the whole point of this post is to show off my sample game, BLOKr. It's
 
 Please check it out in your store of choice:
 
-Google Play Store | Apple App Store
+Play Store | App Store
 ------------------|----------------
-![Get it on Google Play][play-badge] | ![Get it on App Store][apple-badge]
+[![Get it on Google Play][play-badge]][2] | [![Get it on App Store][apple-badge]][3]
 
-[blokr-play]: /images/blokr-play-store-featured-graphic.png
-[blokr-screenshot]: /images/blokr-screenshot.png
+[blokr-play]: /images/posts/2014/10/blokr-play-store-featured-graphic.png
+[blokr-screenshot]: /images/posts/2014/10/blokr-screenshot.png
 [apple-badge]: /images/badges/apple.svg
 [play-badge]: /images/badges/google-play.png
 
 [1]: http://catlikecoding.com/unity/tutorials/runner/
+[2]: https://play.google.com/store/apps/details?id=com.jonathanporta.blokr
+[3]: https://itunes.apple.com/us/app/blokr/id918951183

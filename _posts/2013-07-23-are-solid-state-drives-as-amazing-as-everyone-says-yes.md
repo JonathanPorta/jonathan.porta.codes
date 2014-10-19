@@ -9,7 +9,7 @@ categories:
   - Youtube
 ---
 <div id="attachment_213" class="wp-caption aligncenter" style="width: 584px">
-  <img class="size-full wp-image-213" title="Toshiba Solid State Drive Upgrade Kit" src="http://jonathanporta.com/wp-content/uploads/2013/07/toshiba-ssd-upgrade-1.jpg" alt="Toshiba Solid State Drive Upgrade Kit" width="574" height="382" /><p class="wp-caption-text">
+  <img class="size-full wp-image-213" title="Toshiba Solid State Drive Upgrade Kit" src="/images/posts/2013/07/toshiba-ssd-upgrade-1.jpg" alt="Toshiba Solid State Drive Upgrade Kit" width="574" height="382" /><p class="wp-caption-text">
     Toshiba Solid State Drive Upgrade Kit
   </p>
 </div>

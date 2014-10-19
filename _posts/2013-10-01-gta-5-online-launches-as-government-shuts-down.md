@@ -7,7 +7,7 @@ categories:
   - Video Gaming
 ---
 <div id="attachment_309" class="wp-caption aligncenter" style="width: 470px">
-  <a href="http://jonathanporta.com/wp-content/uploads/2013/10/e6niI8W.jpg"><img class="size-full wp-image-309" alt="The real reason behind today's government shutdown." src="http://jonathanporta.com/wp-content/uploads/2013/10/e6niI8W.jpg" width="460" height="288" /></a><p class="wp-caption-text">
+  <a href="/images/posts/2013/10/e6niI8W.jpg"><img class="size-full wp-image-309" alt="The real reason behind today's government shutdown." src="/images/posts/2013/10/e6niI8W.jpg" width="460" height="288" /></a><p class="wp-caption-text">
     The real reason behind today&#8217;s government shutdown.
   </p>
 </div>
@@ -26,7 +26,7 @@ While I spent most of the day working on various shut down related &#8220;things
   <p>
     For those trying to get into GTA Online today, please bear w/ us on some day one tech connection issues that we’re working to stabilize asap
   </p>
-  
+
   <p>
     — Rockstar Games (@RockstarGames) <a href="https://twitter.com/RockstarGames/statuses/385056492803485696">October 1, 2013</a>
   </p>

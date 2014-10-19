@@ -8,7 +8,7 @@ categories:
   - Web Application Development
 ---
 <div id="attachment_347" class="wp-caption aligncenter" style="width: 730px">
-  <a href="http://jonathanporta.com/wp-content/uploads/2013/11/godaddy-is-terrible.jpg"><img class=" wp-image-347 " alt="Is GoDaddy Selectively Raising Domain Prices?" src="http://jonathanporta.com/wp-content/uploads/2013/11/godaddy-is-terrible-1024x844.jpg" width="720" height="593" /></a><p class="wp-caption-text">
+  <a href="/images/posts/2013/11/godaddy-is-terrible.jpg"><img class=" wp-image-347 " alt="Is GoDaddy Selectively Raising Domain Prices?" src="/images/posts/2013/11/godaddy-is-terrible-1024x844.jpg" width="720" height="593" /></a><p class="wp-caption-text">
     Is GoDaddy Selectively Raising Domain Prices?
   </p>
 </div>

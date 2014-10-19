@@ -10,7 +10,7 @@ tags:
   - Starcraft
   - Zerg Rush
 ---
-<a title="Google Zerg Rush Easter Egg in action!" href="https://www.google.com/?q=zerg+rush" target="_blank"><img class="aligncenter size-full wp-image-43" title="google-zurg-easter-egg" src="http://jonathanporta.com/wp-content/uploads/2012/04/google-zurg-easter-egg.jpg" alt="" width="819" height="472" /></a>
+<a title="Google Zerg Rush Easter Egg in action!" href="https://www.google.com/?q=zerg+rush" target="_blank"><img class="aligncenter size-full wp-image-43" title="google-zurg-easter-egg" src="/images/posts/2012/04/google-zurg-easter-egg.jpg" alt="" width="819" height="472" /></a>
 
 A zerg rush a scenario where low skill units are repeatedly sent after an enemy in an attempt to overwhelm them with shear numbers.
 

@@ -11,24 +11,24 @@ categories:
 <div class='gallery'>
   <dl class='gallery-item'>
     <dt class='gallery-icon landscape'>
-      <a href='http://jonathanporta.com/wp-content/uploads/2013/10/2013-10-30_15.32.51.png' title='Minecon 2013 Cape Success!'><img width="150" height="150" src="http://jonathanporta.com/wp-content/uploads/2013/10/2013-10-30_15.32.51-150x150.png" class="attachment-thumbnail" alt="Minecon 2013 Cape Success!" /></a>
+      <a href='/images/posts/2013/10/2013-10-30_15.32.51.png' title='Minecon 2013 Cape Success!'><img width="150" height="150" src="/images/posts/2013/10/2013-10-30_15.32.51-150x150.png" class="attachment-thumbnail" alt="Minecon 2013 Cape Success!" /></a>
     </dt>
-    
+
     <dd class='wp-caption-text gallery-caption'>
       Minecon 2013 Cape Success!
     </dd>
   </dl>
-  
+
   <dl class='gallery-item'>
     <dt class='gallery-icon portrait'>
-      <a href='http://jonathanporta.com/wp-content/uploads/2013/10/minecon-2013-cape-screenshot.png' title='Minecon 2013 Cape Screenshot'><img width="108" height="150" src="http://jonathanporta.com/wp-content/uploads/2013/10/minecon-2013-cape-screenshot-108x150.png" class="attachment-thumbnail" alt="Minecon 2013 Cape Screenshot" /></a>
+      <a href='/images/posts/2013/10/minecon-2013-cape-screenshot.png' title='Minecon 2013 Cape Screenshot'><img width="108" height="150" src="/images/posts/2013/10/minecon-2013-cape-screenshot-108x150.png" class="attachment-thumbnail" alt="Minecon 2013 Cape Screenshot" /></a>
     </dt>
-    
+
     <dd class='wp-caption-text gallery-caption'>
       Minecon 2013 Cape Screenshot
     </dd>
   </dl>
-  
+
   <br style="clear: both" /> <br style='clear: both;' />
 </div>
 

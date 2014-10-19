@@ -9,7 +9,7 @@ categories:
   - Linux
 ---
 <div id="attachment_183" class="wp-caption aligncenter" style="width: 596px">
-  <img class=" wp-image-183  " title="Fedora 18 Anaconda Installation Summary Screenshot" src="http://jonathanporta.com/wp-content/uploads/2013/05/Screenshot-from-2013-05-11-2138271-e1368833038132.png" alt="Fedora 18 Anaconda Installation Summary Screenshot" width="586" height="211" /><p class="wp-caption-text">
+  <img class=" wp-image-183  " title="Fedora 18 Anaconda Installation Summary Screenshot" src="/images/posts/2013/05/Screenshot-from-2013-05-11-2138271-e1368833038132.png" alt="Fedora 18 Anaconda Installation Summary Screenshot" width="586" height="211" /><p class="wp-caption-text">
     Fedora 18 Anaconda Installation Summary Screenshot
   </p>
 </div>
@@ -34,7 +34,7 @@ And then *it* happened&#8230;
 After clicking &#8220;Installation Destination&#8221; to presumably to setup my partitions, I get this dialog box:
 
 <div id="attachment_177" class="wp-caption aligncenter" style="width: 631px">
-  <img class="size-full wp-image-177" title="Fedora 18 Anaconda - Confusing Partition Dialog" src="http://jonathanporta.com/wp-content/uploads/2013/05/Screenshot-from-2013-05-11-213918.png" alt="" width="621" height="400" /><p class="wp-caption-text">
+  <img class="size-full wp-image-177" title="Fedora 18 Anaconda - Confusing Partition Dialog" src="/images/posts/2013/05/Screenshot-from-2013-05-11-213918.png" alt="" width="621" height="400" /><p class="wp-caption-text">
     Huh?
   </p>
 </div>
@@ -61,7 +61,7 @@ After clicking &#8220;Installation Destination&#8221; to presumably to setup my 
 </div>
 
 <div id="attachment_184" class="wp-caption aligncenter" style="width: 637px">
-  <img class="size-full wp-image-184" title="Scariest Button Click of my Life" src="http://jonathanporta.com/wp-content/uploads/2013/05/fedora-18-installation.png" alt="Scariest Button Click of my Life" width="627" height="409" /><p class="wp-caption-text">
+  <img class="size-full wp-image-184" title="Scariest Button Click of my Life" src="/images/posts/2013/05/fedora-18-installation.png" alt="Scariest Button Click of my Life" width="627" height="409" /><p class="wp-caption-text">
     I sat here for a good 5 minutes wondering if I should click this button.
   </p>
 </div>
@@ -79,13 +79,13 @@ Yep, that easy. I couldn&#8217;t believe I didn&#8217;t try that&#8230;
 To nuke a partition, select the partition on the left.  Enter the mount point, if you have not already.  Then, expand &#8220;Customize&#8221;.  Check &#8220;Reformat&#8221; and verify that the volume group is correct.
 
 <div id="attachment_182" class="wp-caption aligncenter" style="width: 660px">
-  <img class="size-full wp-image-182" title="Fedora 18 Installation Partition Manage Screenshot" src="http://jonathanporta.com/wp-content/uploads/2013/05/Screenshot-from-2013-05-11-213301-e1368836509885.png" alt="Fedora 18 Installation Partition Manage Screenshot" width="650" height="225" /><p class="wp-caption-text">
+  <img class="size-full wp-image-182" title="Fedora 18 Installation Partition Manage Screenshot" src="/images/posts/2013/05/Screenshot-from-2013-05-11-213301-e1368836509885.png" alt="Fedora 18 Installation Partition Manage Screenshot" width="650" height="225" /><p class="wp-caption-text">
     Showing the partitions to be reformatted now appearing under the Fedora 18 header.
   </p>
 </div>
 
 <div id="attachment_174" class="wp-caption aligncenter" style="width: 660px">
-  <img class="size-full wp-image-174" title="Fedora 18 Anaconda Installation  - Moving Old Partitions into new Installation" src="http://jonathanporta.com/wp-content/uploads/2013/05/Screenshot-from-2013-05-11-215201-e1368836659642.png" alt="Fedora 18 Anaconda Installation  - Moving Old Partitions into new Installation" width="650" height="223" /><p class="wp-caption-text">
+  <img class="size-full wp-image-174" title="Fedora 18 Anaconda Installation  - Moving Old Partitions into new Installation" src="/images/posts/2013/05/Screenshot-from-2013-05-11-215201-e1368836659642.png" alt="Fedora 18 Anaconda Installation  - Moving Old Partitions into new Installation" width="650" height="223" /><p class="wp-caption-text">
     Yay! My /home is under the correct header!
   </p>
 </div>

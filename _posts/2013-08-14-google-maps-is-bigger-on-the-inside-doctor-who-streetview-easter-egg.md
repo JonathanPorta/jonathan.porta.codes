@@ -11,7 +11,7 @@ categories:
 After somehow ignoring its existence for most of my life, I recently became a huge fan of the BBC&#8217;s Doctor Who. So, naturally, stumbling across this Google Maps Easter egg was cause for celebration.
 
 <div id="attachment_269" class="wp-caption aligncenter" style="width: 560px">
-  <a href="http://jonathanporta.com/wp-content/uploads/2013/08/google-maps-easter-egg-tardis.png"><img class="size-full wp-image-269" alt="Google Maps T.A.R.D.I.S. Easter Egg" src="http://jonathanporta.com/wp-content/uploads/2013/08/google-maps-easter-egg-tardis-e1376468147411.png" width="550" height="275" /></a><p class="wp-caption-text">
+  <a href="/images/posts/2013/08/google-maps-easter-egg-tardis.png"><img class="size-full wp-image-269" alt="Google Maps T.A.R.D.I.S. Easter Egg" src="/images/posts/2013/08/google-maps-easter-egg-tardis-e1376468147411.png" width="550" height="275" /></a><p class="wp-caption-text">
     Google Maps T.A.R.D.I.S. Easter Egg
   </p>
 </div>
