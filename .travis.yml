@@ -13,3 +13,6 @@ deploy:
   acl: !ruby/string:HighLine::String public_read
   on:
     repo: JonathanPorta/jonathan.porta.codes
+notifications:
+  slack:
+    secure: YSgZHy8zRImnBAKP6rY6F4wKQPc3PMwnjA9zmqNwVxwp2X4V7zARdR1GLpkrOEJPFJ0FPzZ82lQe0UcsOlf/j0Ovmk2Rd8c3x/KV2MfQnVguNzH50gbuMoN5a3FZBFcmGVkmjyL5pglLJ7KDy/BMrdApyVa6r0eGXhJbNuZZxZo=
