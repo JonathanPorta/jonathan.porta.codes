@@ -11,7 +11,7 @@ categories:
 
 I spent a couple hours today figuring out how to sign and release my first Android Market &#8211; yes I know it is now called &#8220;Play!&#8221; &#8211; app.  I have written quite a few Android apps over the last two years, but, oddly, none that I have personally published.  So, here is my debut with a very simple app.
 
-[<img class="aligncenter size-full wp-image-51" title="Real Deal - Maximum Offer" src="/images/posts/2012/04/device-2012-04-29-193008.png" alt="" width="480" height="800" />][1]
+[<img class="aligncenter size-full wp-image-51" title="Real Deal - Maximum Offer" src="/images/posts/2012/04/device-2012-04-29-193008.png" alt="Screenshot" width="480" height="800" />][1]
 
 When I realized I was performing the same simple calculations over and over I decided I needed an app to handle that for me.  Hence Real Deal was born.  The app is very simple, but has some potential.
 

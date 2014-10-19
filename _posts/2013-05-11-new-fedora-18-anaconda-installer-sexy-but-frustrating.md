@@ -34,7 +34,7 @@ And then *it* happened&#8230;
 After clicking &#8220;Installation Destination&#8221; to presumably to setup my partitions, I get this dialog box:
 
 <div id="attachment_177" class="wp-caption aligncenter" style="width: 631px">
-  <img class="size-full wp-image-177" title="Fedora 18 Anaconda - Confusing Partition Dialog" src="/images/posts/2013/05/Screenshot-from-2013-05-11-213918.png" alt="" width="621" height="400" /><p class="wp-caption-text">
+  <img class="size-full wp-image-177" title="Fedora 18 Anaconda - Confusing Partition Dialog" src="/images/posts/2013/05/Screenshot-from-2013-05-11-213918.png" alt="Partition Dialog" width="621" height="400" /><p class="wp-caption-text">
     Huh?
   </p>
 </div>

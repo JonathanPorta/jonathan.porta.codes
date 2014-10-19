@@ -10,7 +10,7 @@ categories:
   - Test Driven Development
   - Web Application Development
 ---
-[<img class="aligncenter size-full wp-image-296" alt="StatusPage.io" src="/images/posts/2013/09/status-page-io.jpg" width="772" height="191" />][1]
+[<img class="aligncenter size-full wp-image-296" alt="StatusPage.io" src="/images/posts/2013/09/status-page-io.jpg" width="772" height="191" alt="StatusPage.io Logo"/>][1]
 
 I really like a lot of things about this link: <a title="StatusPage.io" href="https://www.statuspage.io" target="_blank">https://www.statuspage.io</a>
 

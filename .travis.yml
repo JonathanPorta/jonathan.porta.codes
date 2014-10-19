@@ -1,9 +1,7 @@
 language: ruby
 rvm:
-- 2.0.0
-- 1.9.3
-- jruby-19mode
-- rbx-2
+- 2.1
+script: rake build && rake test
 deploy:
   provider: s3
   access_key_id: AKIAIY24OPKJ7RDCQPSQ
