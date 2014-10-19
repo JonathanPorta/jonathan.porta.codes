@@ -11,6 +11,7 @@ twitter_username: jekyllrb
 github_username:  JonathanPorta
 
 # Build settings
+exclude: [vendor]
 markdown: kramdown
 kramdown:
   input: GFM
