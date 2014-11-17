@@ -18,6 +18,12 @@ task :build do
   execute("jekyll build")
 end
 
+# rake serve
+desc "Build and Serve the site"
+task :serve do
+  execute("jekyll serve")
+end
+
 # == Helpers ===================================================================
 
 # Execute a system command
