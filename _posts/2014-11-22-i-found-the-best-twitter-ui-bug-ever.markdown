@@ -15,7 +15,7 @@ I didn't dig into the page source to see if this looked intentional therefore I 
 
 ### Reproduce Me, If You Can
 
-I found this bug following a "Follow" link in an automated email notifcation from Twitter.
+I found this bug following a "Follow" link in an automated email notification from Twitter. This was in Google Chrome 39.0.2171.65 m.
 
 1. Locate an email from Twitter with a subject like: "xxx just replied to one of your Tweets!" I *think* the email needs to originate from a Twitter user that you are not already following in order to land you on the correct page.
 
@@ -38,10 +38,10 @@ For ultimate enjoyment, ask others to come over and look at your screen. But, wh
 Awesome tip: Subscribe, share my video...all of that stuff. I mean, I worked really, really hard for like 10 minutes to record, upload, and write this much too long description.
 
 ### Coincidences Make Life Interesting and lulzy!
-Ooooooh, yeah, what made this even more awesomerest™ is that I found this because I was tweeting at CircleCI about a Docker error that kept breaking my CI runs. I don't use Twitter often, and I certainly don't follow links in Twitter emails, so it was unlikely that I would have seen this already had it not been for that Docker issue. I guess it partially makes up for all of the head banging and "Still trying to figure out the problem" commits that occured.
+Ooooooh, yeah, what made this even more awesomerest™ is that I found this because I was tweeting at CircleCI about a Docker error that kept breaking my CI runs. I don't use Twitter often, and I certainly don't follow links in Twitter emails, so it was unlikely that I would have seen this already had it not been for that Docker issue. I guess it partially makes up for all of the head banging and "Still trying to figure out the problem" commits that occurred.
 
 ### ¯\\\_(ツ)_/¯ MOAR BUG (not Twitter related)
-Comically, I went to gfycat.com to create a short gif from my Youtube video and was unable to do so due to a bug. When I put in the url of the youtube video it usually asks for a start time and duration. For some reason, that part of the form is no longer in the dom. (I dug into the dom and looked with developer tools.) Yet, the API is obviously still expecting it.
+Comically, I went to gfycat.com to create a short gif from my youtube video and was unable to do so due to a bug. When I put in the url of the youtube video it usually asks for a start time and duration. For some reason, that part of the form is no longer in the dom. (I dug into the dom and looked with developer tools.) Yet, the API is obviously still expecting it.
 
 [![gfycat-ui-bug][gfycat-ui-bug]][gfycat-ui-bug]
 
