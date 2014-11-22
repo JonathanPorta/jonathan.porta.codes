@@ -45,4 +45,4 @@ I created a Slack channel with Travis-CI and GitHub integration. Now I have a un
 
 *Cake was not a lie.
 
-[1]: /images/posts/slack-notifications-for-blog.png
+[1]: /images/posts/2014/10/slack-notifications-for-blog.png
