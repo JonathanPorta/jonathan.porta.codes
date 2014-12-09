@@ -1,6 +1,7 @@
-Got a little [long winded in a comment](https://www.reddit.com/r/node/comments/2muiay/code_coverage_tools_for_nodejs/cm84ctp) on a post to r/node, so, I thought I would turn it into a blog post. (I've been trying, without a lot of luck, to make myself write posts more often. Therefore, if I randomly go off on a writing tangent in a comment on Reddit then I damn-well better take the extra steps to make it into a blog post!)
+Got a little [long winded in a comment](https://www.reddit.com/r/node/comments/2muiay/code_coverage_tools_for_nodejs/cm84ctp) on a post to r/node, so, I thought I would turn it into a blog post. (I've been trying to write posts more often. Therefore, if I randomly go off on a writing tangent in a comment on Reddit then I should seize the opportunity, and take the extra steps to make it into a blog post!) I just spent a couple days figuring this out, so I am itching to tell someone all about it!
 
-I am also using mocha to run my tests. I just spent a couple days figuring this out, so I am itching to tell someone all about it!
+## Tests and something to run them
+I am using mocha to run my tests. 
 
 The Node.js app that I work on most frequently is written in CoffeeScript. I am assuming that when you say "Node.js application" you mean an application written in JavaScript, running in Node.js. Regardless, I'll tell you a little bit about my experience.
 
