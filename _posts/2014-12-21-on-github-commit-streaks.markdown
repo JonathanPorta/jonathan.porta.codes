@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "100 Day Commit Streak or Why Github Commit Streaks Don't Matter to Anyone(except yourself)"
-date:   2014-11-22 10:15:00
+date:   2014-12-21 10:15:00
 categories: development github
 permalink: /2014/12/21/on-github-commit-streaks
 comments: true
