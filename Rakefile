@@ -24,14 +24,17 @@ end
 
 desc "Create a new post"
 task :post do
-  today = Date.today
   title = ENV['TITLE']
-
+  today = Date.today
   slug = slugify title
   permalink = permalinkify today, slug
 
   file = filename today, slug
 
+  images = images_directory today
+  images_path = "#{ File.dirname(__FILE__) }#{ images }"
+
+  # Create our post file
   File.open(file, "w") do |fp|
     fp << <<-EOS.gsub(/^    /, '')
     ---
@@ -43,8 +46,18 @@ task :post do
     comments: true
     ---
 
+    [![my_image]][my_image]
+
+
+
+    [my_image]: #{ images }
+
     EOS
   end
+
+  # Ensure that the images directory is created. git will ignore if empty.
+  puts "Initializing images directory: #{ images }"
+  system "mkdir -p #{ images_path }"
 
   puts "-------------\n"
   puts "Post Created!\n"
@@ -76,4 +89,11 @@ end
 
 def filename(date, slug)
   File.join(File.dirname(__FILE__), '_posts', "#{ date }-#{ slug }" + '.markdown')
+end
+
+def images_directory(date)
+  year = date.strftime '%Y'
+  month = date.strftime '%m'
+
+  "/images/posts/#{ year }/#{ month }/"
 end
