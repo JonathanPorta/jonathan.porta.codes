@@ -12,6 +12,8 @@ categories:
   - Video Gaming
 ---
 
+__Update 1/4/15:__ _Version 1.2 is out! Check out [this rambling post](/2015/01/04/blokr-1-2-update-released) if you're awesome._
+
 I have always wanted to make a video game, so back in May I spent a Sunday going through this [awesome Unity tutorial][1] picking up some basics and building out a sample platformer game.
 
 Now, I've finally went back to that project, gave it a name, made it an icon and decided to submit it to the Apple App Store and the Google Play Store.
