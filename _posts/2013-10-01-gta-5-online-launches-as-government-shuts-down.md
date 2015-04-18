@@ -21,7 +21,7 @@ Coincidence? I think not!
 
 I don&#8217;t really think these two events have anything to do with each other, but in light of such a serious issue, I need to find some humor to cope.
 
-While I spent most of the day working on various shut down related &#8220;things&#8221; &#8211; I wrote this <a href="http://www.ktvq.com/news/federal-government-websites-not-immune-to-shutdown/" target="_blank">article</a>, and <a href="http://www.ktvq.com/news/honor-flight-veterans-break-past-world-war-ii-memorial-barricade/" target="_blank">this one</a>, and <a href="http://www.ktvq.com/news/new-candidate-for-u-s-senate/" target="_blank">this one</a> &#8211; it seems that Rockstar had its fair share of bugs to work out:
+While I spent most of the day working on various shut down related &#8220;things&#8221; &#8211; I wrote this <a href="#" target="_blank">article</a>, and <a href="#" target="_blank">this one</a>, and <a href="#" target="_blank">this one</a> &#8211; it seems that Rockstar had its fair share of bugs to work out:
 
 <blockquote class="twitter-tweet">
   <p>
