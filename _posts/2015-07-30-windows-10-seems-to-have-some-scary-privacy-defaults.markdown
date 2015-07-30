@@ -1,21 +1,21 @@
 ---
 layout: post
-title:  "I noticed some disturbing privacy defaults in Windows 10."
+title:  "I noticed some disturbing privacy defaults in Windows 10"
 date:   2015-07-30
 categories:
 permalink: /2015/07/30/windows-10-seems-to-have-some-scary-privacy-defaults
 comments: true
 ---
-[![upgrading]][upgrading]
+[![privacy-1]][privacy-1]
 
-After waiting for Windows 10 to finishing installing you get presented with a customize wizard. The first screen has a large chunk of text on it, a large and clearly visible button to proceed using the default settings, and a small hard to see text link that lets you choose your own setting values instead of the defaults. (I didn't think to take a photo of the initial menu because I wasn't expecting anything noteworthy. Please excuse the hasty photography.)
+After waiting for Windows 10 to finishing installing you get presented with a customize wizard. The first screen has a large chunk of text on it, a large and clearly visible button to proceed using the default settings, and a small hard to see text link that lets you choose your own setting values instead of the defaults.
 
 Everything about this screen is urging me to just accept the default configuration and get on with life.
 
 Well, never being one to pass up the "Advanced" config options, I clicked the small text link.
 
 ## First Set of Privacy Options
-[![privacy-1]][privacy-1]
+[![privacy-2]][privacy-2]
 
 # Uh, What?
 **"Personalize your speech, typing, and inking input by sending contacts and calendar details, along with other associated input data to Microsoft"**
@@ -42,7 +42,7 @@ In addition to allowing apps to request location data, I would also be agreeing 
 
 
 ## Second Set of Privacy Options
-[![privacy-2]][privacy-2]
+[![privacy-3]][privacy-3]
 
 The first option is the first useful setting I've seen since this started. Moving onto the second setting. Here we go again!
 
@@ -67,6 +67,6 @@ I am pretty surprised by the far-reaching data collection that Microsoft seems t
 
 With all of these settings on these two screens enabled I might as well relocate my computer to Microsoft headquarters and have the entire company look over my shoulder.
 
-[privacy-1]:/images/posts/2015/07/windows-10-upgrade-customize-privacy-settings-1-cropped.jpg
-[privacy-2]:/images/posts/2015/07/windows-10-upgrade-customize-privacy-settings-2-cropped.jpg
-[upgrading]:/images/posts/2015/07/window-10-upgrade-confirmation.png
+[privacy-1]:/images/posts/2015/07/window-10-privacy-settings-1.png
+[privacy-2]:/images/posts/2015/07/window-10-privacy-settings-2.png
+[privacy-3]:/images/posts/2015/07/window-10-privacy-settings-3.png
