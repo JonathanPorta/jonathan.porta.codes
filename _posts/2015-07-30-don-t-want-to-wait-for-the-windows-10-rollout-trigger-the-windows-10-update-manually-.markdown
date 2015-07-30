@@ -14,7 +14,7 @@ Impatient? Me too. I found a way to skip waiting for the Windows 10 upgrade to r
 ## tl;wr?
 Here's the no BS version for power users:
 
-  1. Download [Windows 10 Media Creation Tool page][media_creation_tool_download]
+  1. Download [Windows 10 Media Creation Tool][media_creation_tool_download]
   2. Run Media Creation Tool and choose the "Upgrade this PC" option on the first screen.
   3. Keep advancing steps in the wizard until the installation begins.
   4. Profit.
