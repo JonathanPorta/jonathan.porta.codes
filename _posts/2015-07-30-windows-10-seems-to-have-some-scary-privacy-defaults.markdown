@@ -8,6 +8,8 @@ comments: true
 ---
 [![privacy-1]][privacy-1]
 
+**UPDATE:** Found a great [Reddit thread](https://www.reddit.com/r/Windows10/comments/3f38ed/guide_how_to_disable_data_logging_in_w10/) explaining how to turn off a lot of the logging.
+
 After waiting for Windows 10 to finishing installing you get presented with a customize wizard. The first screen has a large chunk of text on it, a large and clearly visible button to proceed using the default settings, and a small hard to see text link that lets you choose your own setting values instead of the defaults.
 
 Everything about this screen is urging me to just accept the default configuration and get on with life.
