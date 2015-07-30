@@ -8,7 +8,7 @@ comments: true
 ---
 [![privacy-1]][privacy-1]
 
-After waiting for Windows 10 to finishing installing you get presented with a customize wizard. The first screen has a large chunk of text on it, a large and clearly visible button to proceed using the default settings, and a small hard to see text link that lets you choose your own setting values instead of the defaults. (I didn't think to take a photo of the initial menu because I wasn't expecting anything noteworthy. Please excuse the hasty photography.)
+After waiting for Windows 10 to finishing installing you get presented with a customize wizard. The first screen has a large chunk of text on it, a large and clearly visible button to proceed using the default settings, and a small hard to see text link that lets you choose your own setting values instead of the defaults.
 
 Everything about this screen is urging me to just accept the default configuration and get on with life.
 
