@@ -3,3 +3,5 @@ _site
 .bundle
 vendor
 .DS_Store
+# ai-rules-local-config
+.ai-local/
